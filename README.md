@@ -4,7 +4,7 @@ A fun and interactive front-end mini project made as a birthday surprise 🎉. T
 
 🔗 Live Demo
 
-https://Mehr-dev.github/Birthday-GIFt-present/
+https://Mehr-dev.github/Birthday-GIFt-present/index.html
 
 🚀 Features
 
